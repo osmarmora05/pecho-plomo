@@ -10,7 +10,7 @@ A static website of a fictional gym made with [hugo](https://gohugo.io/), using 
 
 ## 🎮 Demo
 
-- [Live demo here!](https://pecho-plomo.vercel.app/)(vercel)
+- [Live demo here!](https://pecho-plomo.vercel.app/) (vercel)
 
 ## ✅ TODO
 
@@ -20,7 +20,7 @@ A static website of a fictional gym made with [hugo](https://gohugo.io/), using 
 ## 🙏Acknowledgments
 
 - [zeon-studio's](https://github.com/zeon-studio/hugoplate) for template
-- [strangehelix.bio](https://www.figma.com/community/file/1334779038193346013) for design
+- [strangehelix.bio's](https://www.figma.com/community/file/1334779038193346013) for design
 
 ## ⚖️ License
 
