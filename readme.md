@@ -11,6 +11,7 @@ A static website of a fictional gym made with [hugo](https://gohugo.io/), using 
 ## 🎮 Demo
 
 - [Live demo here!](https://pecho-plomo.vercel.app/) (vercel)
+- [Live demo here!](https://pecho-plomo.pages.dev/) (cloudflare)
 
 ## ✅ TODO
 
